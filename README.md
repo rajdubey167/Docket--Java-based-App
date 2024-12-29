@@ -52,8 +52,3 @@ DOCKET is a Java Swing-based desktop application designed to optimize study sche
 ## Contribution
 
 Contributions to enhance the DOCKET application are welcome. Please fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
